@@ -1,0 +1,12 @@
+D:\Software Projects\ASP.NET\Patient_Records\Patient_Records\bin\Debug\netcoreapp2.0\Patient_Records.deps.json
+D:\Software Projects\ASP.NET\Patient_Records\Patient_Records\bin\Debug\netcoreapp2.0\Patient_Records.runtimeconfig.json
+D:\Software Projects\ASP.NET\Patient_Records\Patient_Records\bin\Debug\netcoreapp2.0\Patient_Records.runtimeconfig.dev.json
+D:\Software Projects\ASP.NET\Patient_Records\Patient_Records\bin\Debug\netcoreapp2.0\Patient_Records.dll
+D:\Software Projects\ASP.NET\Patient_Records\Patient_Records\bin\Debug\netcoreapp2.0\Patient_Records.pdb
+D:\Software Projects\ASP.NET\Patient_Records\Patient_Records\obj\Debug\netcoreapp2.0\Patient_Records.csprojAssemblyReference.cache
+D:\Software Projects\ASP.NET\Patient_Records\Patient_Records\obj\Debug\netcoreapp2.0\Patient_Records.csproj.CoreCompileInputs.cache
+D:\Software Projects\ASP.NET\Patient_Records\Patient_Records\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Software Projects\ASP.NET\Patient_Records\Patient_Records\obj\Debug\netcoreapp2.0\Patient_Records.AssemblyInfoInputs.cache
+D:\Software Projects\ASP.NET\Patient_Records\Patient_Records\obj\Debug\netcoreapp2.0\Patient_Records.AssemblyInfo.cs
+D:\Software Projects\ASP.NET\Patient_Records\Patient_Records\obj\Debug\netcoreapp2.0\Patient_Records.dll
+D:\Software Projects\ASP.NET\Patient_Records\Patient_Records\obj\Debug\netcoreapp2.0\Patient_Records.pdb
